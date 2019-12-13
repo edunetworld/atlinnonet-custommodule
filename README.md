@@ -1,3 +1,3 @@
-# atlinnonet
-ATL Innonet
+# Atlinnonet
+
 # Landing Page & Mobile Responsiveness for Mentors
