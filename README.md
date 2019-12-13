@@ -1,2 +1,3 @@
 # atlinnonet
-ATL Innonet File Changes For IBM Approval
+ATL Innonet
+# Landing Page & Mobile Responsiveness for Mentors
